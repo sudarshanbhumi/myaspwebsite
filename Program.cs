@@ -36,7 +36,8 @@ namespace LinqDemo
             //TestIndex.TestInd();
             //Sorting.SortEmps();
             //FirstConsoleApp.TestFirstApp();
-            TestSingleton.Test();
+           // TestSingleton.Test();
+           FactoryPattern.FactoryDesignPattern();
         }
     }
 }

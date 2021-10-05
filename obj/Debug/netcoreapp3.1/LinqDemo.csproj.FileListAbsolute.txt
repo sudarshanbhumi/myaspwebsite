@@ -12,3 +12,17 @@ C:\Projects\AspnetCore\LINQDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.dll
 C:\Projects\AspnetCore\LINQDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.pdb
 C:\Projects\AspnetCore\LINQDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.genruntimeconfig.cache
 C:\Projects\AspnetCore\LINQDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.AssemblyReference.cache
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.csproj.AssemblyReference.cache
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfoInputs.cache
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfo.cs
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\bin\Debug\netcoreapp3.1\LinqDemo.exe
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\bin\Debug\netcoreapp3.1\LinqDemo.deps.json
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.json
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.dev.json
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\bin\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\bin\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Projects\AspnetCore\LINQDemo\DesignPatterns\myaspwebsite\obj\Debug\netcoreapp3.1\LinqDemo.genruntimeconfig.cache
